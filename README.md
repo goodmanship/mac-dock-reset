@@ -2,6 +2,7 @@ mac-dock-reset
 ==============
 
 Full screen applications will disable hot corners and other dock functions.  This script will restore them for you.
+Here is a discussion on the bug: https://discussions.apple.com/thread/3203909?start=15&tstart=0
 
 Installation
 ------------
